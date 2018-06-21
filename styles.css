@@ -89,12 +89,13 @@ h7x {
   text-align: left;
 }
 
-/*Plain Yellow Text for Tipjar*/
+/*Plain Yellow Text for website*/
 h8x {
 	font-family: 'Aldrich';
 	font-size: 2em;
-	color: #FFE500;
-  text-align: center;
+	color: white;
+	text-align: center;
+	text-shadow: 1px 1px 30px Black;
 }
 
 h9x {
