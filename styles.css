@@ -11,6 +11,13 @@ body {
   align: left;
 }
 
+.leftlogo {
+  height: 6vmin;
+  style: left;
+  padding-right:1.5em;
+  float:left;
+}
+
 /*Heading*/
 h1x {
   font-family: 'Aldrich';
@@ -111,6 +118,13 @@ hinv2 {
   z-index: 1;
   height: 3%;
 }
+
+
+
+
+
+
+
 /* ScrollBar------------------------------------------------------------------*/
 /* width */
 ::-webkit-scrollbar {
