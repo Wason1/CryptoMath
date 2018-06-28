@@ -12,7 +12,7 @@ body {
 }
 
 .leftlogo {
-  height: 6vmin;
+  height: 5vmin;
   style: left;
   padding-right:1.5em;
   float:left;
@@ -163,4 +163,4 @@ padding: 0em;
         padding-left: 43%;
         background: linear-gradient(to bottom , rgba(0, 0, 0, 1), rgba(250, 0, 0, 0.3)),  url("images/hubble_s.jpg");
         background-position: right top;
-    }
+	}}
